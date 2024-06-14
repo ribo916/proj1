@@ -25,6 +25,10 @@
 		try editing <strong>src/routes/+page.svelte</strong>
 	</h2>
 
+	<h3>
+		ribo was here...
+	</h3>
+
 	<Counter />
 </section>
 
