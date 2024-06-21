@@ -39,7 +39,7 @@
 	</nav>
 
 	<div class="corner">
-		<a href="https://github.com/ribo916/sveltedemo">
+		<a href="https://github.com/ribo916/sveltedemo" target="_blank">
 			<img src={github} alt="GitHub" />
 		</a>
 	</div>
