@@ -1,6 +1,7 @@
 <script>
 	import Header from './Header.svelte';
-	import './styles.css';
+	import '../app.css';
+	// import './styles.css';
 	import { injectSpeedInsights } from '@vercel/speed-insights/sveltekit';
 	injectSpeedInsights();
 </script>
@@ -13,7 +14,7 @@
 	</main>
 
 	<footer>
-		<p>visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to learn SvelteKit</p>
+		<!--<p>visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to learn SvelteKit</p>-->
 	</footer>
 </div>
 
