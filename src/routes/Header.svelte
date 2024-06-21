@@ -21,9 +21,6 @@
 			<li aria-current={$page.url.pathname === '/' ? 'page' : undefined}>
 				<a href="/">Home</a>
 			</li>
-			<li aria-current={$page.url.pathname === '/about' ? 'page' : undefined}>
-				<a href="/about">About</a>
-			</li>
 			<li aria-current={$page.url.pathname === '/example' ? 'page' : undefined}>
 				<a href="/example/1FTFW1E58PKF15989">Outreach</a>
 			</li>
